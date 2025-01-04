@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💼 Je suis actuellement à la recherche d'opportunités<br/>
 🎓 Je suis en train de terminer la formation Développeur d'applications Javascript React chez Open Classrooms<br/>
 🌐 Mon portfolio est <a href="https://www.krehion.com/" target="_blank">ici</a><br/>
-💬 Vous pouvez me contacter par <a href="mailto:blandine.housset@gmail.com?subject=Bonjour%20Blandine%2C%20j%27aimerais%20entrer%20en%20contact%20%21" target="_blank">mail</a> ou sur <a href="https://www.linkedin.com/in/blandinehousset/" target="_blank">LinkedIn</a>
+💬 Vous pouvez me contacter par <a href="mailto:blandine.housset@gmail.com?subject=Bonjour%20Blandine%2C%20j%27aimerais%20entrer%20en%20contact%20%21" target="_blank">mail</a> ou sur <a href="https://www.linkedin.com/in/blandinehousset/" target="_blank">LinkedIn</a><br/>
 🛼 Je fais du roller derby chez les Porcelain Dolls de Limoges<br/>
 🍵 J'adore le thé<br/>
 </p>

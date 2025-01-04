@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 👤 À propos de moi
+## Bonjour ! Je m'appelle Blandine Housset 👋
 
 <p>
-👋 Je m'appelle Blandine Housset<br/>
 💻 Je suis développeuse front-end<br/>
 🎨 Anciennement graphiste et webdesigner, je combine créativité et compétences techniques<br/>
 💼 Je suis actuellement à la recherche d'opportunités<br/>
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 💬 Vous pouvez me contacter par <a href="mailto:blandine.housset@gmail.com?subject=Bonjour%20Blandine%2C%20j%27aimerais%20entrer%20en%20contact%20%21" target="_blank">mail</a> ou sur <a href="https://www.linkedin.com/in/blandinehousset/" target="_blank">LinkedIn</a> !
 </p>
 
-## 📜 Quelques technologies et outils que j'utilise
+## Quelques technologies et outils que j'utilise
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)

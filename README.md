@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-21a3f1?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-2daaff?style=for-the-badge&logo=photoshop&logoColor=001833)
 ![Illustrator](https://img.shields.io/badge/Illustrator-f79500?style=for-the-badge&logo=illustrator&logoColor=310000)
